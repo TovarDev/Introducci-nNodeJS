@@ -1,0 +1,26 @@
+[
+    {
+    "nombre": "Bicicleta", "venta": true,
+    "precio": 230.15,
+    "foto": "http://localhost:3000/images/bici.jpg",
+    "tags": [ "lifestyle", "motor"]
+    }, 
+    {
+    "nombre": "iPhone 3GS", "venta": false,
+    "precio": 50.00,
+    "foto": "http://localhost:3000/images/iphone.jpg",
+    "tags": [ "work", "mobile"]
+    },
+    {
+    "nombre": "iPad", "venta": true,
+    "precio": 399,
+    "foto": "http://localhost:3000/images/ipad.jpg",
+    "tags": [ "work"]
+    }, 
+    {
+    "nombre": "converse", "venta": false,
+    "precio": 80.00,
+    "foto": "http://localhost:3000/images/zapas.jpg",
+    "tags": [ "lifestyle"]
+    }
+]    
